@@ -1,4 +1,6 @@
-/* Computes the dimensions of a box from input provided by the user */
+/* Computes the dimensions of a box from input provided by the user 
+run: gcc -o vol.out vol.c && ./vol.out
+*/
 #include <stdio.h>
 int main(void)
 {
